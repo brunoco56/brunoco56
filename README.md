@@ -6,10 +6,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, e experiência avançada co
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoco56&langs_count=8)](https://github.com/brunoco56)
 
 
-[![willianrod's brunoco56 stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunoco56)](https://github.com/brunoco56/github-readme-stats)
-
-
-
 
 <!--
 Here are some ideas to get you started:
@@ -22,4 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+templates: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#customization
+
+
 -->
