@@ -6,7 +6,8 @@ Estudante de Análise e Desenvolvimento de Sistemas, e experiência avançada co
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoco56&langs_count=8)](https://github.com/brunoco56)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunoco56)]
+[![willianrod's brunoco56 stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunoco56)](https://github.com/brunoco56/github-readme-stats)
+
 
 
 
