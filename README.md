@@ -3,6 +3,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas, com experiência avançada como Técnico em Informática.
 [LinkedIn](linkedin.com/in/bruno-enéas-costa139a9293)
 
+[![RepoBruno](https://github-readme-stats.vercel.app/api/wakatime?username=brunoco56)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
