@@ -1,6 +1,6 @@
 ### Olá!! 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas, com experiência avançada como Técnico em Informática.
+Estudante de Análise e Desenvolvimento de Sistemas, e experiência avançada como Técnico em Informática.
 [LinkedIn](https://linkedin.com/in/bruno-enéas-costa139a9293)
 
 
