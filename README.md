@@ -1,7 +1,7 @@
 ### Olá!! 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas, com experiência avançada como Técnico em Informática.
-[LinkedIn](linkedin.com/in/bruno-enéas-costa139a9293)
+[LinkedIn](https://linkedin.com/in/bruno-enéas-costa139a9293)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoco56&show_icons=true&theme=radical)
 
