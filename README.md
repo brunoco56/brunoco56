@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, e experiência avançada co
 [LinkedIn](https://linkedin.com/in/bruno-enéas-costa139a9293)
 
 
-[![brunoco56](https://github-readme-stats.vercel.app/api/wakatime?username=brunoco56)](https://github.com/anuraghazra/github-readme-stats)
+[![brunoco56](https://github-readme-stats.vercel.app/api/wakatime?username=brunoco56)](https://github.com/brunoco56/github-readme-stats)
 
 ![Brunoco56](https://github-readme-stats.vercel.app/api?username=brunoco56&theme=chartreuse-dark&show_icons=true)
 
