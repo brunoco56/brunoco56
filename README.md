@@ -1,7 +1,10 @@
-### Hi there 👋
+### Olá!! 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas, com experiência avançada como Técnico em Informática.
 [LinkedIn](linkedin.com/in/bruno-enéas-costa139a9293)
+
+
+
 <!--
 Here are some ideas to get you started:
 
