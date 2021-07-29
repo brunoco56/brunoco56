@@ -3,7 +3,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas, e experiência avançada como Técnico em Informática.
 [LinkedIn](https://linkedin.com/in/bruno-enéas-costa139a9293)
 
-[![Linguagens mais ultilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoco56&layout=compact)](https://github.com/brunoco56/github-readme-stats)
+[![Linguagens mais ultilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoco56&layout=compact)](https://github.com/brunoco56)
 
 ![Brunoco56](https://github-readme-stats.vercel.app/api?username=brunoco56&theme=chartreuse-dark&show_icons=true)
 
