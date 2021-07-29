@@ -5,7 +5,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, e experiência avançada co
 
 
 ![Brunoco56](https://github-readme-stats.vercel.app/api?username=brunoco56)
-![Brunoco56](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=chartreuse-dark&show_icons=true)
+![Brunoco56](https://github-readme-stats.vercel.app/api?username=brunoco56&theme=chartreuse-dark&show_icons=true)
 
 
 <!--
