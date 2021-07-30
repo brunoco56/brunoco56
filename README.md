@@ -1,6 +1,7 @@
 ### Seja bem vindo(a) ao meu GitHub!! 👋
 
  💬 Sou estudante de Análise e Desenvolvimento de Sistemas, possuo vasta experiência como Técnico em Informática.
+-⚡
 [LinkedIn](https://linkedin.com/in/bruno-enéas-costa139a9293)
 ![Brunoco56](https://github-readme-stats.vercel.app/api?username=brunoco56&theme=chartreuse-dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoco56&langs_count=8)](https://github.com/brunoco56)
