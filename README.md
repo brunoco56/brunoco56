@@ -1,4 +1,4 @@
-### Olá!! 👋
+### Seja bem vindo(a) ao meu GitHub!! 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas, e experiência avançada como Técnico em Informática.
 [LinkedIn](https://linkedin.com/in/bruno-enéas-costa139a9293)
